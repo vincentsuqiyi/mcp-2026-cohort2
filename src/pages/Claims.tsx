@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Claims = () => {
   return (
     <div className="bg-background text-on-surface p-margin-mobile md:p-margin-desktop">
