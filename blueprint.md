@@ -54,3 +54,12 @@ A web application that allows users to manage their insurance claims. The applic
 *   Created the `Verification.tsx` page to allow users to review and correct the data extracted by the AI from their uploaded documents.
 *   Added a new route `/verification` in `App.tsx`.
 *   Updated the "Continue to Details" button in `NewClaim.tsx` to navigate to the `/verification` page.
+
+**Update (Dashboard Redesign):**
+
+*   Redesigned the `Dashboard.tsx` page for a more modern and intuitive user experience.
+*   The new dashboard includes:
+    *   An improved header with a personalized welcome message.
+    *   Key metrics cards for "Active Claims," "Pending Payout," and "Reimbursement Rate."
+    *   A redesigned "Recent Activity" section with a cleaner table layout.
+    *   Enhanced navigation and visual polish.
